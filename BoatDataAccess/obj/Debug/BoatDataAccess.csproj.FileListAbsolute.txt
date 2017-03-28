@@ -1,0 +1,14 @@
+D:\Dot Net 2 2016\PM\BoatRentalApp\BoatDataAccess\bin\Debug\BoatDataAccess.dll
+D:\Dot Net 2 2016\PM\BoatRentalApp\BoatDataAccess\bin\Debug\BoatDataAccess.pdb
+D:\Dot Net 2 2016\PM\BoatRentalApp\BoatDataAccess\obj\Debug\BoatDataAccess.csprojResolveAssemblyReference.cache
+D:\Dot Net 2 2016\PM\BoatRentalApp\BoatDataAccess\obj\Debug\BoatDataAccess.dll
+D:\Dot Net 2 2016\PM\BoatRentalApp\BoatDataAccess\obj\Debug\BoatDataAccess.pdb
+D:\Dot Net 2 2016\PM\BoatRentalApp\BoatDataAccess\bin\Debug\BoatDataObjects.dll
+D:\Dot Net 2 2016\PM\BoatRentalApp\BoatDataAccess\bin\Debug\BoatDataObjects.pdb
+C:\Users\nh229u06.CSD\Desktop\MikeT\BoatRentalApp\BoatDataAccess\bin\Debug\BoatDataAccess.dll
+C:\Users\nh229u06.CSD\Desktop\MikeT\BoatRentalApp\BoatDataAccess\bin\Debug\BoatDataAccess.pdb
+C:\Users\nh229u06.CSD\Desktop\MikeT\BoatRentalApp\BoatDataAccess\bin\Debug\BoatDataObjects.dll
+C:\Users\nh229u06.CSD\Desktop\MikeT\BoatRentalApp\BoatDataAccess\bin\Debug\BoatDataObjects.pdb
+C:\Users\nh229u06.CSD\Desktop\MikeT\BoatRentalApp\BoatDataAccess\obj\Debug\BoatDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\nh229u06.CSD\Desktop\MikeT\BoatRentalApp\BoatDataAccess\obj\Debug\BoatDataAccess.dll
+C:\Users\nh229u06.CSD\Desktop\MikeT\BoatRentalApp\BoatDataAccess\obj\Debug\BoatDataAccess.pdb

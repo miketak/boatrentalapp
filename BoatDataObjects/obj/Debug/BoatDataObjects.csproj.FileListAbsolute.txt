@@ -1,0 +1,9 @@
+D:\Dot Net 2 2016\PM\BoatRentalApp\BoatDataObjects\bin\Debug\BoatDataObjects.dll
+D:\Dot Net 2 2016\PM\BoatRentalApp\BoatDataObjects\bin\Debug\BoatDataObjects.pdb
+D:\Dot Net 2 2016\PM\BoatRentalApp\BoatDataObjects\obj\Debug\BoatDataObjects.dll
+D:\Dot Net 2 2016\PM\BoatRentalApp\BoatDataObjects\obj\Debug\BoatDataObjects.pdb
+D:\Dot Net 2 2016\PM\BoatRentalApp\BoatDataObjects\obj\Debug\BoatDataObjects.csprojResolveAssemblyReference.cache
+C:\Users\nh229u06.CSD\Desktop\MikeT\BoatRentalApp\BoatDataObjects\bin\Debug\BoatDataObjects.dll
+C:\Users\nh229u06.CSD\Desktop\MikeT\BoatRentalApp\BoatDataObjects\bin\Debug\BoatDataObjects.pdb
+C:\Users\nh229u06.CSD\Desktop\MikeT\BoatRentalApp\BoatDataObjects\obj\Debug\BoatDataObjects.dll
+C:\Users\nh229u06.CSD\Desktop\MikeT\BoatRentalApp\BoatDataObjects\obj\Debug\BoatDataObjects.pdb

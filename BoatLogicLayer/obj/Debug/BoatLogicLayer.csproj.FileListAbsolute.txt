@@ -1,0 +1,18 @@
+D:\Dot Net 2 2016\PM\BoatRentalApp\BoatLogicLayer\bin\Debug\BoatLogicLayer.dll
+D:\Dot Net 2 2016\PM\BoatRentalApp\BoatLogicLayer\bin\Debug\BoatLogicLayer.pdb
+D:\Dot Net 2 2016\PM\BoatRentalApp\BoatLogicLayer\obj\Debug\BoatLogicLayer.csprojResolveAssemblyReference.cache
+D:\Dot Net 2 2016\PM\BoatRentalApp\BoatLogicLayer\obj\Debug\BoatLogicLayer.dll
+D:\Dot Net 2 2016\PM\BoatRentalApp\BoatLogicLayer\obj\Debug\BoatLogicLayer.pdb
+D:\Dot Net 2 2016\PM\BoatRentalApp\BoatLogicLayer\bin\Debug\BoatDataAccess.dll
+D:\Dot Net 2 2016\PM\BoatRentalApp\BoatLogicLayer\bin\Debug\BoatDataObjects.dll
+D:\Dot Net 2 2016\PM\BoatRentalApp\BoatLogicLayer\bin\Debug\BoatDataAccess.pdb
+D:\Dot Net 2 2016\PM\BoatRentalApp\BoatLogicLayer\bin\Debug\BoatDataObjects.pdb
+C:\Users\nh229u06.CSD\Desktop\MikeT\BoatRentalApp\BoatLogicLayer\bin\Debug\BoatLogicLayer.dll
+C:\Users\nh229u06.CSD\Desktop\MikeT\BoatRentalApp\BoatLogicLayer\bin\Debug\BoatLogicLayer.pdb
+C:\Users\nh229u06.CSD\Desktop\MikeT\BoatRentalApp\BoatLogicLayer\bin\Debug\BoatDataAccess.dll
+C:\Users\nh229u06.CSD\Desktop\MikeT\BoatRentalApp\BoatLogicLayer\bin\Debug\BoatDataObjects.dll
+C:\Users\nh229u06.CSD\Desktop\MikeT\BoatRentalApp\BoatLogicLayer\bin\Debug\BoatDataAccess.pdb
+C:\Users\nh229u06.CSD\Desktop\MikeT\BoatRentalApp\BoatLogicLayer\bin\Debug\BoatDataObjects.pdb
+C:\Users\nh229u06.CSD\Desktop\MikeT\BoatRentalApp\BoatLogicLayer\obj\Debug\BoatLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\nh229u06.CSD\Desktop\MikeT\BoatRentalApp\BoatLogicLayer\obj\Debug\BoatLogicLayer.dll
+C:\Users\nh229u06.CSD\Desktop\MikeT\BoatRentalApp\BoatLogicLayer\obj\Debug\BoatLogicLayer.pdb
