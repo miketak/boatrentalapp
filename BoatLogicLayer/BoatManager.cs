@@ -83,7 +83,12 @@ namespace BoatLogicLayer
 
         }
 
-       
+
+
+        public bool UpdateBoat(Boat oldBoat, Boat newBoat)
+        {
+            return BoatAccessor.UpdateBoatDetail(oldBoat, newBoat) == 1;
+        }
     }
     
 }

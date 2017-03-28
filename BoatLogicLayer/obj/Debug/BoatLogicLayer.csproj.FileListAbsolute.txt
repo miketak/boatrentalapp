@@ -16,3 +16,12 @@ C:\Users\nh229u06.CSD\Desktop\MikeT\BoatRentalApp\BoatLogicLayer\bin\Debug\BoatD
 C:\Users\nh229u06.CSD\Desktop\MikeT\BoatRentalApp\BoatLogicLayer\obj\Debug\BoatLogicLayer.csprojResolveAssemblyReference.cache
 C:\Users\nh229u06.CSD\Desktop\MikeT\BoatRentalApp\BoatLogicLayer\obj\Debug\BoatLogicLayer.dll
 C:\Users\nh229u06.CSD\Desktop\MikeT\BoatRentalApp\BoatLogicLayer\obj\Debug\BoatLogicLayer.pdb
+C:\Users\nh229u06.CSD\Desktop\MikeT\lll\boatrentalapp\BoatLogicLayer\bin\Debug\BoatLogicLayer.dll
+C:\Users\nh229u06.CSD\Desktop\MikeT\lll\boatrentalapp\BoatLogicLayer\bin\Debug\BoatLogicLayer.pdb
+C:\Users\nh229u06.CSD\Desktop\MikeT\lll\boatrentalapp\BoatLogicLayer\bin\Debug\BoatDataAccess.dll
+C:\Users\nh229u06.CSD\Desktop\MikeT\lll\boatrentalapp\BoatLogicLayer\bin\Debug\BoatDataObjects.dll
+C:\Users\nh229u06.CSD\Desktop\MikeT\lll\boatrentalapp\BoatLogicLayer\bin\Debug\BoatDataAccess.pdb
+C:\Users\nh229u06.CSD\Desktop\MikeT\lll\boatrentalapp\BoatLogicLayer\bin\Debug\BoatDataObjects.pdb
+C:\Users\nh229u06.CSD\Desktop\MikeT\lll\boatrentalapp\BoatLogicLayer\obj\Debug\BoatLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\nh229u06.CSD\Desktop\MikeT\lll\boatrentalapp\BoatLogicLayer\obj\Debug\BoatLogicLayer.dll
+C:\Users\nh229u06.CSD\Desktop\MikeT\lll\boatrentalapp\BoatLogicLayer\obj\Debug\BoatLogicLayer.pdb

@@ -179,5 +179,49 @@ namespace BoatDataAccess
 
             return rowsAffected;
         }
+
+        public static int UpdateBoatDetail(Boat oldBoat, Boat newBoat)
+        {
+            int rowsAffected = 0;
+
+            var conn = DBConnection.GetDBConnection();
+            var cmdText = @"sp_update_boat";
+
+            var cmd = new SqlCommand(cmdText, conn) { CommandType = CommandType.StoredProcedure };
+
+            cmd.Parameters.AddWithValue("@OldBoatTypeID", oldBoat.BoatTypeID);
+            cmd.Parameters.AddWithValue("@OldName", oldBoat.Name);
+            cmd.Parameters.AddWithValue("@OldHours", oldBoat.Hours);
+            cmd.Parameters.AddWithValue("OldModelYear", oldBoat.ModelYear);
+            cmd.Parameters.AddWithValue("@OldPurchaseDate", oldBoat.PurchaseDate);
+            cmd.Parameters.AddWithValue("@OldBoatStatusID", oldBoat.BoatStatusID);
+            cmd.Parameters.AddWithValue("@OldDockSlipID", oldBoat.DockSlipID);
+            cmd.Parameters.AddWithValue("@OldColor", oldBoat.Color);
+
+            cmd.Parameters.AddWithValue("@NewBoatTypeID", newBoat.BoatTypeID);
+            cmd.Parameters.AddWithValue("@NewName", newBoat.Name);
+            cmd.Parameters.AddWithValue("@NewHours", newBoat.Hours);
+            cmd.Parameters.AddWithValue("NewModelYear", newBoat.ModelYear);
+            cmd.Parameters.AddWithValue("@NewPurchaseDate", newBoat.PurchaseDate);
+            cmd.Parameters.AddWithValue("@NewBoatStatusID", newBoat.BoatStatusID);
+            cmd.Parameters.AddWithValue("@NewDockSlipID", newBoat.DockSlipID);
+            cmd.Parameters.AddWithValue("@NewColor", newBoat.Color);
+
+            try
+            {
+                conn.Open();
+                rowsAffected = cmd.ExecuteNonQuery();
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+            finally
+            {
+                conn.Close();
+            }
+
+            return rowsAffected;
+        }
     }
 }
